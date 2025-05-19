@@ -1,3 +1,3 @@
 # CODSOFT
-To-Do List application/n
+To-Do List application
 Simple Calculator Code App
